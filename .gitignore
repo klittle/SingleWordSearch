@@ -117,9 +117,8 @@ crashlytics.properties
 crashlytics-build.properties
 
 # ignore input file
-oovwords.csv
+in.xlsx
 
 # ignore output file
-suggested_spellings_results.csv
-regexwordstest.csv
-regex_results.csv
+out.xlsx
+
