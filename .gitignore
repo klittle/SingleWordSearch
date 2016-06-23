@@ -117,7 +117,7 @@ crashlytics.properties
 crashlytics-build.properties
 
 # ignore input file
-in.xlsx
+*.xlsx
 
 # ignore output file
 out.xlsx

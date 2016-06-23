@@ -20,9 +20,11 @@ Supply path to SingleWordSearch, e.g.
 
     cd SingleWordSearch
 
-### download web pages
-
-    python ./SingleWordSearch/download_web.py
+### Runs singlewordsearch program
+#### on MacOS
+    python ./SingleWordSearch/singlewordsearch.py
+#### on Windows
+    python .\SingleWordSearch\singlewordsearch.py
 
 ### Search files and write search results to file
 Search is similar to Unix/Linux grep command
